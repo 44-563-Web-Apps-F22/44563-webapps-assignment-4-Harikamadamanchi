@@ -1,0 +1,41 @@
+.speech{
+    font-size:11px;
+    color:black;
+}
+.direction{
+    background-color:purple;
+}
+.direction:hover{
+    background-color:yellow;
+    color: aliceblue;
+}
+.QUEEN{
+    font-size: 13px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.LEILA{
+    font-size: 13px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.FLETA{
+    font-size: 13px;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.CELIA{
+    font-size: 13px;
+    color:aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.WILLIS{
+    font-size: 13px;
+    color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
